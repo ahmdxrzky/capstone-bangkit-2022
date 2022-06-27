@@ -1,4 +1,4 @@
-# capstone-bangkit-2022
+# Capstone Project for Bangkit 2022 Program from BoemBoe Team (C22-PS069)
 
 This repository contains a [dataset](https://github.com/ahmdxrzky/capstone-bangkit-2022/tree/main/dataset/spices.zip) used in the research for my Bangkit team's capstone project. <br>
 It is contains 1506 images for training and 300 images for testing, collected from:

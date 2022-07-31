@@ -25,3 +25,6 @@ Model in this project were built using InceptionV3 pre-trained model up to 'mixe
 Evaluation metric used here is accuracy. Formula for accuracy metric is shown below. <br>
 ![Accuracy Formula](https://user-images.githubusercontent.com/99194827/181746873-dc624763-ae3d-4c10-8815-c8f24ee69aa5.png) <br>
 Accuracy score of model in this project is 98% for training and 85% for testing data. With this very high accuracies, we can certain that this model is very good to fulfill our objective.
+
+## Further Development ##
+Model generated from this project is being used to an android application. Full documentation of this project can be accessed [here](https://github.com/rizkyogut/bangkit-capstone).
